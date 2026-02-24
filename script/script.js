@@ -5,4 +5,5 @@
 const numero = Number(prompt("coloque um número"))
 const outronumero = Number(prompt("coloque outro número"))
 const maisnumero = Number(prompt("coloque outro número"))
+
 alert(numero+outronumero+maisnumero)
